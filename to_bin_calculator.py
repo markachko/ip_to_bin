@@ -7,3 +7,7 @@ def ip_to_bin(ip):
 
 binary_ip = ip_to_bin(ip)
 print(f"Binary representation: {binary_ip}")
+
+print("maria")
+
+
